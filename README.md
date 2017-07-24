@@ -1,7 +1,7 @@
 # machine-learning
 
 ## Mac setup (python 2.7)
-If you are not concern about dependency issues skip virtualenv/activate(enter vm)/deactivate(exit vm) commands
+If you are not concern about dependency issues, skip virtualenv/activate/deactivate commands
 ```sh
 sudo easy_install pip
 # for better dependency mangement
